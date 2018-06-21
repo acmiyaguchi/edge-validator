@@ -14,6 +14,8 @@ click = "*"
 pytest = "*"
 requests = "*"
 awscli = "*"
+sphinx = "*"
+sphinx-autobuild = "*"
 
 [requires]
 python_version = "3.6"

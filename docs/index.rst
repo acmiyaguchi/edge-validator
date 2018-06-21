@@ -1,20 +1,16 @@
-.. edge-validator documentation master file, created by
-   sphinx-quickstart on Thu Jun 21 14:32:28 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to edge-validator's documentation!
+edge-validator
 ==========================================
+
+The edge-validator is a service for developing schemas.
+
+Documentation Contents
+----------------------
+
+This part of the documentation guides you through all of the applications usage patterns.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   quickstart
+   api
+   operation

@@ -16,6 +16,7 @@ requests = "*"
 awscli = "*"
 sphinx = "*"
 sphinx-autobuild = "*"
+recommonmark = "*"
 
 [requires]
 python_version = "3.6"
